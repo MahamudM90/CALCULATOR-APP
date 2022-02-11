@@ -1,4 +1,4 @@
 ##### Homepage
 
-![ScreenShot of Form](screenshots/a.png)
+![ScreenShot of Form](sreenshots/a.png)
 
